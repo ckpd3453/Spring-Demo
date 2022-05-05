@@ -18,9 +18,10 @@ public class User {
 
     /**
      * Getter And Setter Methods
+     *
      * @return -Set Values
      */
-    public String getFirstName(){
+    public String getFirstName() {
         return firstName;
     }
 
